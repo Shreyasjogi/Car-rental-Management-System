@@ -60,5 +60,3 @@ Username: jenny | Password: jenny
 - Click **Import**  
   → Choose SQL file from `/Database/carrentalp.sql`  
   → Click **Go**
-
-  ### 3️⃣
