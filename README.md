@@ -3,11 +3,10 @@
 
 **Patna-Car-Rental** is a web-based car rental management system developed using **PHP** and **MySQL**. It allows admins, employees, and customers to manage cars, book and return them, and view summaries via a clean web interface.
 
-
+--------------------------------------------------------------------------------------------------------
 Login Details
 👤 Customer Login
 Username: lucas
-
 Password: password
 
 👥 Employee Login
