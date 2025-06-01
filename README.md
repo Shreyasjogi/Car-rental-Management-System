@@ -5,8 +5,11 @@
 
 --------------------------------------------------------------------------------------------------------
 Login Details
+
 👤 Customer Login
+
 Username: lucas
+
 Password: password
 
 👥 Employee Login
